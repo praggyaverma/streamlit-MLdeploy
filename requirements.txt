@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+streamlit
+pickle
+tensorflow.keras.datasets
